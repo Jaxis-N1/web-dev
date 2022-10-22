@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 empty text changed again!
-=======
 empty text changed in feature branch!
->>>>>>> feature
 
 
 second commit here we go!
